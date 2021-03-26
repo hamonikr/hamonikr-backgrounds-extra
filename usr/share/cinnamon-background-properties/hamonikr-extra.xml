@@ -1,0 +1,45 @@
+<?xml version="1.0"?> 
+<!DOCTYPE wallpapers SYSTEM "cinnamon-wp-list.dtd"> 
+<wallpapers> 
+
+<wallpaper deleted="false">
+    <name>LightWaves</name>
+    <filename>/usr/share/backgrounds/hamonikr-extra/wallpaper-01.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist></artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>adwaita-day</name>
+    <filename>/usr/share/backgrounds/hamonikr-extra/wallpaper-02.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist></artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>adwaita-night</name>
+    <filename>/usr/share/backgrounds/hamonikr-extra/wallpaper-03.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist></artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Dark_Ivy</name>
+    <filename>/usr/share/backgrounds/hamonikr-extra/wallpaper-04.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist></artist>
+</wallpaper>
+
+</wallpapers> 
